@@ -31,6 +31,9 @@ This project presents a comparative analysis of Straight-Line and Diminishing Ba
 - Straight-Line Method suits assets with consistent usage.
 - Diminishing Balance Method reflects faster value loss in early years.
 - Correct method selection improves financial accuracy.
+- 
+## Sample Outputs
+Screenshots are included to demonstrate depreciation schedules and comparison analysis created during the project.
 
 ## Who This Project Is For
 Useful for finance teams, business analysts, auditors, and decision-makers involved in asset management.
