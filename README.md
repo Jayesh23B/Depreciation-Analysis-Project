@@ -1,38 +1,43 @@
 # Depreciation Methods Analysis 📊
 
 ## Project Overview
-This project focuses on a comparative analysis of two widely used depreciation methods:
-- Straight-Line Method
-- Diminishing Balance Method
+This project presents a comparative analysis of Straight-Line and Diminishing Balance depreciation methods to understand their financial impact and real-world applicability.
 
-The objective is to understand their calculation logic, applicability, advantages, and impact on financial reporting.
+## Project Workflow
+1. Studied depreciation concepts and accounting principles
+2. Identified differences between Straight-Line and Diminishing Balance methods
+3. Created year-wise depreciation schedules using Excel
+4. Analyzed impact on book value and financial reporting
+5. Summarized insights and conclusions
 
 ## Scope of the Project
-- Explain depreciation concepts and key terminologies
-- Compare Straight-Line vs Diminishing Balance methods
-- Create depreciation schedules
-- Analyze suitability for different asset types
-- Provide business insights and conclusions
+- Understand depreciation concepts and terminologies
+- Compare depreciation calculation methods
+- Prepare depreciation schedules
+- Evaluate suitability of each method
 
 ## Tools Used
-- Microsoft Excel (Depreciation calculations & schedules)
-- PowerPoint (Project presentation)
+- Microsoft Excel
+- Microsoft PowerPoint
 
 ## Key Concepts Covered
 - Asset Cost & Scrap Value
 - Useful Life Estimation
 - Annual Depreciation Calculation
 - Book Value Reduction
-- Financial & Tax Impact Analysis
+- Financial Reporting Impact
 
 ## Insights
-- Straight-Line Method is suitable for assets with consistent usage.
-- Diminishing Balance Method better reflects assets that lose value rapidly.
-- Selecting the correct method improves financial accuracy and decision-making.
+- Straight-Line Method suits assets with consistent usage.
+- Diminishing Balance Method reflects faster value loss in early years.
+- Correct method selection improves financial accuracy.
+
+## Who This Project Is For
+Useful for finance teams, business analysts, auditors, and decision-makers involved in asset management.
 
 ## Files in This Repository
-- `Depreciation_Analysis.xlsx` – Calculation and schedules
-- `Depreciation_Project_Presentation.pptx` – Concept explanation and analysis
+- `Depreciation_Analysis.xlsx` – Depreciation calculations and schedules
+- `Depreciation_Methods_Comparison_Presentation.pptx` – Project explanation and analysis
 
 ## Academic Note
-This project was completed as part of an academic/institute-assigned data analysis exercise.
+This project was completed as part of an institute-assigned academic exercise.
